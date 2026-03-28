@@ -20,5 +20,6 @@ include = [
     "game_state.py",
     "renderer.py",
     "constants.py",
+    "ai.py",
     "pictures/",
 ]
